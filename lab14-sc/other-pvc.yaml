@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: other-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  storageClassName: other-sc
+  resources:
+    requests:
+      storage: 5Gi
