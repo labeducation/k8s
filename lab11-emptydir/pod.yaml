@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: emptydir-pod
+  name: lab11-emptydir-pod
 spec:
   containers:
   - name: redis
