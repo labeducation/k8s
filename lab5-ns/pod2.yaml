@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: lab3-pod2
-  namespace: lab3-ns
+  name: lab5-pod2
+  namespace: lab5-ns
 spec:
   containers:
   - name: nginx
