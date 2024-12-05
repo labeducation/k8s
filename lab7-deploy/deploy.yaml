@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: lab5-deploy
+  name: lab7-deploy
 spec:
   replicas: 3
   strategy:
