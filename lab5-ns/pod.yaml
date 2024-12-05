@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: lab3-pod
+  name: lab5-pod
 spec:
   containers:
   - name: nginx
