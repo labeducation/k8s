@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
-  name: lab4-rs
+  name: lab6-rs
 spec:
   replicas: 2
   selector:
