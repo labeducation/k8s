@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: lab6-pod2
+  name: lab9-pod2
   labels:
     app: svc
 spec:
